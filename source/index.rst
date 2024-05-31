@@ -55,17 +55,6 @@ Indices and tables
     - Arriving on time
     - Roll call
 
-Zudo: 3
-
-Angle: 0
-
-Ermana: 5
-
-Emra : 5
-
-Adna: 0
-
-Fin: 0
 
 Physical Ability
 
